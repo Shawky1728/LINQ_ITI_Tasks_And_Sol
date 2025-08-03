@@ -1,0 +1,15 @@
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\bin\Debug\net9.0\Day2_Sol.exe
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\bin\Debug\net9.0\Day2_Sol.deps.json
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\bin\Debug\net9.0\Day2_Sol.runtimeconfig.json
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\bin\Debug\net9.0\Day2_Sol.dll
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\bin\Debug\net9.0\Day2_Sol.pdb
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\obj\Debug\net9.0\Day2_Sol.GeneratedMSBuildEditorConfig.editorconfig
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\obj\Debug\net9.0\Day2_Sol.AssemblyInfoInputs.cache
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\obj\Debug\net9.0\Day2_Sol.AssemblyInfo.cs
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\obj\Debug\net9.0\Day2_Sol.csproj.CoreCompileInputs.cache
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\obj\Debug\net9.0\Day2_Sol.sourcelink.json
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\obj\Debug\net9.0\Day2_Sol.dll
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\obj\Debug\net9.0\refint\Day2_Sol.dll
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\obj\Debug\net9.0\Day2_Sol.pdb
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\obj\Debug\net9.0\Day2_Sol.genruntimeconfig.cache
+E:\MahmoudShawky\LINQ_ITI_Tasks_And_Sol\Day2\Sol\Day2_Sol\Day2_Sol\obj\Debug\net9.0\ref\Day2_Sol.dll
